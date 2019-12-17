@@ -1,0 +1,104 @@
+html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body{
+	margin:0;
+	padding:0;
+	width: 100%;
+	height: 100%;
+	background: url(drops.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	display: block;
+}
+
+.nav {
+	position: absolute;
+	left: 50%;
+	top: 1%;
+}
+
+.nav ul {
+	list-style: none;
+}
+
+.nav ul li {
+	list-style: none;
+	display: inline-block;
+	color: #fff;
+	font-family: Raleway;
+	padding: 10px 50px;
+}
+
+.active {
+color: #fff;
+background: #e02626;
+border-radius: 4px;
+}
+
+.header {
+	text-align: center;
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	transform: translate(-50%,-50%);
+}
+
+.header h1 {
+	color: #fff;
+	font-family: "Ink Free regular";
+	font-size: 100px;
+}
+
+span{
+	color: #e02626;
+}
+
+.tagline{
+	text-align: center;
+ 	position: absolute;
+ 	top: 46%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.tagline p{
+
+	color: #fff;
+	font-family: Raleway;
+	font-size: 20px;
+}
+
+.down{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.down img {
+
+	width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
