@@ -3,12 +3,12 @@
 <br>
 <br>
 <br>
-<img src="sample.png">
+<img src="image/sample.png">
 </img>
 <br>
 <br>
 <br>
 <h1>Thank You... </h1>
 <br><br>
-<p> If You <img src="herat.png> </img> this Repo please give a <img src="star.png"></img></p>
+<p> If You <img src="image/herat.png> </img> this Repo please give a <img src="image/star.png"></img></p>
 <br>
