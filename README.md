@@ -1,4 +1,4 @@
-<p>This is the simple HTML+CSS Example : </p>
+<h1>This is the simple HTML+CSS Example : </h1>
 <br>
 <br>
 <br>
